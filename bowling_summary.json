@@ -1,0 +1,5002 @@
+[
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "5.75",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dushmantha Chameera",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "1",
+    "economy": "9.75",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Pramod Madushan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "37",
+    "wickets": "2",
+    "economy": "9.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chamika Karunaratne",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "1",
+    "economy": "6.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gerhard Erasmus",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "David Wiese",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "2",
+    "economy": "4.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bernard Scholtz",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "2",
+    "economy": "4.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Shikongo",
+    "overs": "3",
+    "maidens": "1",
+    "runs": "22",
+    "wickets": "2",
+    "economy": "7.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "JJ Smit",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "5.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Jan Frylinck",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "2",
+    "economy": "6.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "2",
+    "economy": "3.25",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Pringle",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "1",
+    "economy": "3.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Logan van Beek",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "0",
+    "economy": "9.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "3",
+    "economy": "6.33",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Roelof van der Merwe",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "1",
+    "economy": "6.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Junaid Siddique",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "3",
+    "economy": "6.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Basil Hameed",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "1",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Aayan Afzal Khan",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Karthik Meiyappan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "1",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Zahoor Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "1",
+    "economy": "2.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Zawar Farid",
+    "overs": "2.5",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "8.47",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kashif Daud",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kyle Mayers",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "12.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Akeal Hosein",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "0",
+    "economy": "7.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Alzarri Joseph",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "2",
+    "economy": "7.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Obed McCoy",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "0",
+    "economy": "8.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Jason Holder",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "2",
+    "economy": "4.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Odean Smith",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "1",
+    "economy": "7.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Watt",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "3",
+    "economy": "3.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brad Wheal",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "2",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Davey",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "1",
+    "economy": "11.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Safyaan Sharif",
+    "overs": "3.3",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "6.57",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Michael Leask",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "2",
+    "economy": "3.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "3",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "2",
+    "economy": "9.75",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Curtis Campher",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "0",
+    "economy": "9.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Simi Singh",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "2",
+    "economy": "10.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "10.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "2",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "2",
+    "economy": "5.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "3",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Luke Jongwe",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "12.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "6.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "1",
+    "economy": "7.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Pringle",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Colin Ackermann",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "1",
+    "economy": "5.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "1",
+    "economy": "4.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Timm van der Gugten",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "0",
+    "economy": "9.66",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Roelof van der Merwe",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "6",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bernard Scholtz",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "1",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "David Wiese",
+    "overs": "2.3",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "8.80",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gerhard Erasmus",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "0",
+    "economy": "4.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Shikongo",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "18.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "JJ Smit",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Jan Frylinck",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "4.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Jan Nicol Loftie-Eaton",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Junaid Siddique",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kashif Daud",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "0",
+    "economy": "14.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Zahoor Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "2",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Aayan Afzal Khan",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "5.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Aryan Lakra",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Karthik Meiyappan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "3",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Basil Hameed",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "0",
+    "economy": "13.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Pramod Madushan",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "1",
+    "economy": "4.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "3.1",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "2",
+    "economy": "4.73",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dushmantha Chameera",
+    "overs": "3.5",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "3",
+    "economy": "3.91",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chamika Karunaratne",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "8",
+    "wickets": "3",
+    "economy": "2.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dasun Shanaka",
+    "overs": "1.1",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "1",
+    "economy": "7.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "5.75",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "59",
+    "wickets": "0",
+    "economy": "14.75",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "0",
+    "economy": "9.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Simi Singh",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Curtis Campher",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "2",
+    "economy": "4.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "George Dockrell",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Watt",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "1",
+    "economy": "9.75",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brad Wheal",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "6.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Davey",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "46",
+    "wickets": "0",
+    "economy": "11.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Safyaan Sharif",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "1",
+    "economy": "10.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Greaves",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Michael Leask",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "0",
+    "economy": "6.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "7.33",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "38",
+    "wickets": "2",
+    "economy": "9.50",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Ryan Burl",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "3",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "1",
+    "economy": "5.66",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Kyle Mayers",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "0",
+    "economy": "17.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Akeal Hosein",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "6.25",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Alzarri Joseph",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "4",
+    "economy": "4.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Obed McCoy",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "1",
+    "economy": "6.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Jason Holder",
+    "overs": "3.2",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "3",
+    "economy": "3.60",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Odean Smith",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "1",
+    "economy": "10.33",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "1",
+    "economy": "8.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Pringle",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "7.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Roelof van der Merwe",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "5.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "2",
+    "economy": "6.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "2",
+    "economy": "10.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Timm van der Gugten",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "1",
+    "economy": "10.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dhananjaya de Silva",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lahiru Kumara",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "1",
+    "economy": "7.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Binura Fernando",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "1",
+    "economy": "8.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "2",
+    "economy": "8.00",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "3",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chamika Karunaratne",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "0",
+    "economy": "5.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dasun Shanaka",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ruben Trumpelmann",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "5.50",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "David Wiese",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "1",
+    "economy": "6.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bernard Scholtz",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "1",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "JJ Smit",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "0",
+    "economy": "9.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Jan Frylinck",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "0",
+    "economy": "10.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Shikongo",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Basil Hameed",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "2",
+    "economy": "5.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Junaid Siddique",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "35",
+    "wickets": "1",
+    "economy": "8.75",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Zahoor Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "2",
+    "economy": "5.00",
+    "wides": "2",
+    "noBalls": "2"
+  },
+  {
+    "bowlerName": "Ahmed Raza",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Karthik Meiyappan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "1",
+    "economy": "8.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Aayan Afzal Khan",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "0",
+    "economy": "3.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Muhammad Waseem",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "0",
+    "economy": "7.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "6.50",
+    "wides": "4",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "1",
+    "economy": "8.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Curtis Campher",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "0",
+    "economy": "14.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Simi Singh",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "1",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "3",
+    "economy": "4.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Obed McCoy",
+    "overs": "3.3",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "0",
+    "economy": "7.71",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Akeal Hosein",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "38",
+    "wickets": "1",
+    "economy": "9.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Alzarri Joseph",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "0",
+    "economy": "9.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Odean Smith",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "0",
+    "economy": "11.50",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Jason Holder",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "0",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "14",
+    "wickets": "2",
+    "economy": "3.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "2",
+    "economy": "7.00",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "1",
+    "economy": "8.50",
+    "wides": "0",
+    "noBalls": "2"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "0",
+    "economy": "6.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wessly Madhevere",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brad Wheal",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "1",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Davey",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "2",
+    "economy": "5.33",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Safyaan Sharif",
+    "overs": "2.3",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "0",
+    "economy": "9.20",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Mark Watt",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "1",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Michael Leask",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Calum MacLeod",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "0",
+    "economy": "11.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Starc",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Hazlewood",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "41",
+    "wickets": "2",
+    "economy": "10.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Pat Cummins",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "46",
+    "wickets": "0",
+    "economy": "11.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Marcus Stoinis",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "38",
+    "wickets": "0",
+    "economy": "9.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adam Zampa",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "1",
+    "economy": "9.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Trent Boult",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Southee",
+    "overs": "2.1",
+    "maidens": "0",
+    "runs": "6",
+    "wickets": "3",
+    "economy": "2.76",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Santner",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "3",
+    "economy": "7.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lockie Ferguson",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "6.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ish Sodhi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "1",
+    "economy": "7.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Stokes",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "2",
+    "economy": "4.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Woakes",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Wood",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "2",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sam Curran",
+    "overs": "3.4",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "5",
+    "economy": "2.72",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adil Rashid",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fazalhaq Farooqi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Azmatullah Omarzai",
+    "overs": "1.1",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "0",
+    "economy": "9.42",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mujeeb Ur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "1",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Rashid Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "1",
+    "economy": "4.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fareed Ahmad",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "11.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nabi",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "5.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Binura Fernando",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "1",
+    "economy": "6.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lahiru Kumara",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "2",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chamika Karunaratne",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "1",
+    "economy": "7.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "2",
+    "economy": "6.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dhananjaya de Silva",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "1",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "45",
+    "wickets": "0",
+    "economy": "11.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "1",
+    "economy": "7.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Curtis Campher",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Simi Singh",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "0",
+    "economy": "10.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bhuvneshwar Kumar",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "1",
+    "economy": "5.50",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Arshdeep Singh",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "3",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammed Shami",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "6.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hardik Pandya",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "3",
+    "economy": "7.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ravichandran Ashwin",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "0",
+    "economy": "7.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Axar Patel",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "21.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "0",
+    "economy": "8.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "2",
+    "economy": "9.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nawaz",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "42",
+    "wickets": "2",
+    "economy": "10.50",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "1",
+    "economy": "8.25",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Colin Ackermann",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "4",
+    "wickets": "0",
+    "economy": "4.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "2",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "2",
+    "economy": "9.66",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Pringle",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shariz Ahmad",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Logan van Beek",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "1",
+    "economy": "4.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Taskin Ahmed",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "4",
+    "economy": "6.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hasan Mahmud",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "15",
+    "wickets": "2",
+    "economy": "3.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shakib Al Hasan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mustafizur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Soumya Sarkar",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "1",
+    "economy": "9.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mosaddek Hossain",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "0",
+    "economy": "14.00",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Kagiso Rabada",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "0",
+    "economy": "10.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wayne Parnell",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "6",
+    "wickets": "1",
+    "economy": "3.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lungi Ngidi",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "2",
+    "economy": "10.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Keshav Maharaj",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "0",
+    "economy": "10.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Anrich Nortje",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "0",
+    "economy": "23.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "0",
+    "economy": "17.00",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "0",
+    "economy": "11.00",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Josh Hazlewood",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "1",
+    "economy": "6.50",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Pat Cummins",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Starc",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "5.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ashton Agar",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "6.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Marcus Stoinis",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "0",
+    "economy": "8.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Marsh",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "0",
+    "economy": "14.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Glenn Maxwell",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Binura Fernando",
+    "overs": "0.5",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dhananjaya de Silva",
+    "overs": "2.1",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "1",
+    "economy": "8.30",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lahiru Kumara",
+    "overs": "3.3",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "6.28",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chamika Karunaratne",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "6.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "7.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "53",
+    "wickets": "0",
+    "economy": "17.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dasun Shanaka",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "0",
+    "economy": "10.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Stokes",
+    "overs": "2.2",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "1",
+    "economy": "3.42",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Woakes",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "41",
+    "wickets": "0",
+    "economy": "13.66",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Wood",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "3",
+    "economy": "8.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sam Curran",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "2",
+    "economy": "10.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adil Rashid",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Liam Livingstone",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "3",
+    "economy": "5.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "2",
+    "economy": "5.33",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "6.66",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fionn Hand",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "1",
+    "economy": "8.50",
+    "wides": "4",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "3.3",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "0",
+    "economy": "9.42",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "George Dockrell",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Taskin Ahmed",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "46",
+    "wickets": "1",
+    "economy": "15.33",
+    "wides": "0",
+    "noBalls": "3"
+  },
+  {
+    "bowlerName": "Mehidy Hasan Miraz",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "0",
+    "economy": "10.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hasan Mahmud",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mustafizur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "0",
+    "economy": "6.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mosaddek Hossain",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shakib Al Hasan",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "2",
+    "economy": "11.00",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Afif Hossain",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "1",
+    "economy": "11.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kagiso Rabada",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wayne Parnell",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Anrich Nortje",
+    "overs": "3.3",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "4",
+    "economy": "2.85",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Keshav Maharaj",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tabraiz Shamsi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "3",
+    "economy": "5.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "1",
+    "economy": "8.25",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Pringle",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "0",
+    "economy": "11.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Logan van Beek",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "45",
+    "wickets": "0",
+    "economy": "11.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shariz Ahmad",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bhuvneshwar Kumar",
+    "overs": "3",
+    "maidens": "2",
+    "runs": "9",
+    "wickets": "2",
+    "economy": "3.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Arshdeep Singh",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "37",
+    "wickets": "2",
+    "economy": "9.25",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Mohammed Shami",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "1",
+    "economy": "6.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Axar Patel",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "2",
+    "economy": "4.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hardik Pandya",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ravichandran Ashwin",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "2",
+    "economy": "5.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "0",
+    "economy": "7.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "0",
+    "economy": "8.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Wasim",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "4",
+    "economy": "6.00",
+    "wides": "4",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "12",
+    "wickets": "1",
+    "economy": "3.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "3",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "1",
+    "economy": "4.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brad Evans",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "2",
+    "economy": "6.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "3",
+    "economy": "6.25",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Luke Jongwe",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "10.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ryan Burl",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "35",
+    "wickets": "1",
+    "economy": "8.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kasun Rajitha",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "2",
+    "economy": "5.75",
+    "wides": "1",
+    "noBalls": "2"
+  },
+  {
+    "bowlerName": "Dhananjaya de Silva",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "1",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "1",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lahiru Kumara",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "37",
+    "wickets": "1",
+    "economy": "12.33",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Chamika Karunaratne",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "0",
+    "economy": "11.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Southee",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "12",
+    "wickets": "1",
+    "economy": "3.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Trent Boult",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "4",
+    "economy": "3.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lockie Ferguson",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "35",
+    "wickets": "1",
+    "economy": "8.75",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Santner",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "2",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ish Sodhi",
+    "overs": "3.2",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "2",
+    "economy": "6.30",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "2",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "35",
+    "wickets": "1",
+    "economy": "8.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brad Evans",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "0",
+    "economy": "10.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wessly Madhevere",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Taskin Ahmed",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "19",
+    "wickets": "3",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hasan Mahmud",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mosaddek Hossain",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "2",
+    "economy": "8.50",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Mustafizur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "2",
+    "economy": "3.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shakib Al Hasan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "0",
+    "economy": "8.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "1",
+    "economy": "4.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "1",
+    "economy": "2.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Wasim",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "2",
+    "economy": "5.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "3.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "3",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nawaz",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "11",
+    "wickets": "0",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "8.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "1",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brandon Glover",
+    "overs": "2.5",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "2",
+    "economy": "7.76",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Pringle",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "0",
+    "economy": "12.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Logan van Beek",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "0",
+    "economy": "4.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Roelof van der Merwe",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "7",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wayne Parnell",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "15",
+    "wickets": "3",
+    "economy": "3.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kagiso Rabada",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "6.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lungi Ngidi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "4",
+    "economy": "7.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Anrich Nortje",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Keshav Maharaj",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "0",
+    "economy": "9.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Aiden Markram",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bhuvneshwar Kumar",
+    "overs": "3.4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "5.72",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Arshdeep Singh",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "2",
+    "economy": "6.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammed Shami",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "1",
+    "economy": "3.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hardik Pandya",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "1",
+    "economy": "7.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ravichandran Ashwin",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "43",
+    "wickets": "1",
+    "economy": "10.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "2",
+    "economy": "5.25",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "59",
+    "wickets": "0",
+    "economy": "14.75",
+    "wides": "6",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "3",
+    "economy": "7.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "0",
+    "economy": "9.66",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fionn Hand",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "15.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "George Dockrell",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Hazlewood",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Pat Cummins",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "2",
+    "economy": "7.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Glenn Maxwell",
+    "overs": "2.1",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "2",
+    "economy": "6.46",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Starc",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "43",
+    "wickets": "2",
+    "economy": "10.75",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Adam Zampa",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "2",
+    "economy": "4.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Marcus Stoinis",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "6",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kasun Rajitha",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "1",
+    "economy": "7.75",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Pramod Madushan",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lahiru Kumara",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "2",
+    "economy": "7.50",
+    "wides": "4",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "0",
+    "economy": "8.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "3",
+    "economy": "3.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dhananjaya de Silva",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fazalhaq Farooqi",
+    "overs": "3.3",
+    "maidens": "1",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "6.28",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mujeeb Ur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fareed Ahmad",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "0",
+    "economy": "12.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Rashid Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "2",
+    "economy": "7.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Azmatullah Omarzai",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "0",
+    "economy": "8.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nabi",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gulbadin Naib",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "0",
+    "economy": "12.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Trent Boult",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "40",
+    "wickets": "0",
+    "economy": "10.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Southee",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "43",
+    "wickets": "1",
+    "economy": "10.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Santner",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "6.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lockie Ferguson",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "45",
+    "wickets": "2",
+    "economy": "11.25",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Ish Sodhi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "1",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Moeen Ali",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "4",
+    "wickets": "0",
+    "economy": "4.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Woakes",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "2",
+    "economy": "8.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adil Rashid",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "0",
+    "economy": "8.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sam Curran",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "2",
+    "economy": "6.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Wood",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "8.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Liam Livingstone",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "8.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Stokes",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "10.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "1",
+    "economy": "4.25",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "3",
+    "economy": "7.25",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brandon Glover",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "29",
+    "wickets": "2",
+    "economy": "7.25",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Logan van Beek",
+    "overs": "2.2",
+    "maidens": "0",
+    "runs": "17",
+    "wickets": "2",
+    "economy": "7.28",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "2",
+    "economy": "3.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Roelof van der Merwe",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "2",
+    "economy": "4.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "2",
+    "economy": "5.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "6",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Luke Jongwe",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "12.50",
+    "wides": "3",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Taskin Ahmed",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "3.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shoriful Islam",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "57",
+    "wickets": "0",
+    "economy": "14.25",
+    "wides": "2",
+    "noBalls": "2"
+  },
+  {
+    "bowlerName": "Hasan Mahmud",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "47",
+    "wickets": "3",
+    "economy": "11.75",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Mustafizur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "0",
+    "economy": "7.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shakib Al Hasan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "2",
+    "economy": "8.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bhuvneshwar Kumar",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Arshdeep Singh",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "38",
+    "wickets": "2",
+    "economy": "9.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammed Shami",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "8.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Axar Patel",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "6",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ravichandran Ashwin",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "0",
+    "economy": "9.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hardik Pandya",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "28",
+    "wickets": "2",
+    "economy": "9.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wayne Parnell",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "1",
+    "economy": "7.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kagiso Rabada",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "44",
+    "wickets": "1",
+    "economy": "11.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lungi Ngidi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Anrich Nortje",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "41",
+    "wickets": "4",
+    "economy": "10.25",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Tabraiz Shamsi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "36",
+    "wickets": "1",
+    "economy": "9.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "3",
+    "economy": "4.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "1",
+    "economy": "6.33",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "44",
+    "wickets": "1",
+    "economy": "14.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Wasim",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "1",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "2",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nawaz",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "2",
+    "wickets": "0",
+    "economy": "2.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Little",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "3",
+    "economy": "5.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Adair",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "1",
+    "economy": "9.75",
+    "wides": "3",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Barry McCarthy",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "46",
+    "wickets": "0",
+    "economy": "11.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gareth Delany",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "2",
+    "economy": "7.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fionn Hand",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "11.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "George Dockrell",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Trent Boult",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "38",
+    "wickets": "0",
+    "economy": "9.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Southee",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "2",
+    "economy": "7.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lockie Ferguson",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "3",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Santner",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "2",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ish Sodhi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "2",
+    "economy": "7.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fazalhaq Farooqi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "2",
+    "economy": "7.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mujeeb Ur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "42",
+    "wickets": "1",
+    "economy": "10.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naveen-ul-Haq",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "3",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Gulbadin Naib",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "31",
+    "wickets": "0",
+    "economy": "10.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Rashid Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "29",
+    "wickets": "1",
+    "economy": "7.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nabi",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "0",
+    "economy": "14.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Josh Hazlewood",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "2",
+    "economy": "8.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Pat Cummins",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Marcus Stoinis",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "13.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kane Richardson",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "48",
+    "wickets": "1",
+    "economy": "12.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adam Zampa",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "2",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Cameron Green",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "0",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Stokes",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Woakes",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mark Wood",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "3",
+    "economy": "8.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sam Curran",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "1",
+    "economy": "6.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adil Rashid",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "4.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Liam Livingstone",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Moeen Ali",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "5",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Maheesh Theekshana",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "0",
+    "economy": "5.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kasun Rajitha",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "40",
+    "wickets": "0",
+    "economy": "13.33",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lahiru Kumara",
+    "overs": "3.4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.54",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Wanindu Hasaranga",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "2",
+    "economy": "5.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Dhananjaya de Silva",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Charith Asalanka",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "8",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wayne Parnell",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Kagiso Rabada",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "37",
+    "wickets": "0",
+    "economy": "12.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lungi Ngidi",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "35",
+    "wickets": "0",
+    "economy": "11.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Anrich Nortje",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "10",
+    "wickets": "1",
+    "economy": "2.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Keshav Maharaj",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "2",
+    "economy": "6.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Aiden Markram",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Fred Klaassen",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "2",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Paul van Meekeren",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "1",
+    "economy": "11.00",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Colin Ackermann",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "5.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Roelof van der Merwe",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "0",
+    "economy": "9.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Brandon Glover",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "3",
+    "economy": "4.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Logan van Beek",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "0",
+    "economy": "7.66",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bas de Leede",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "2",
+    "economy": "8.33",
+    "wides": "1",
+    "noBalls": "2"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "4",
+    "economy": "5.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Wasim",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "19",
+    "wickets": "0",
+    "economy": "9.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "1",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "2",
+    "economy": "7.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Iftikhar Ahmed",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Taskin Ahmed",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "8.66",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Nasum Ahmed",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "1",
+    "economy": "3.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shakib Al Hasan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "35",
+    "wickets": "1",
+    "economy": "8.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mustafizur Rahman",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "1",
+    "economy": "5.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ebadot Hossain",
+    "overs": "3.1",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "1",
+    "economy": "7.89",
+    "wides": "0",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Richard Ngarava",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "44",
+    "wickets": "1",
+    "economy": "11.00",
+    "wides": "1",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Tendai Chatara",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "0",
+    "economy": "8.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Blessing Muzarabani",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "50",
+    "wickets": "1",
+    "economy": "12.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Wellington Masakadza",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "0",
+    "economy": "6.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ryan Burl",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "0",
+    "economy": "14.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sikandar Raza",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sean Williams",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "2",
+    "economy": "4.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bhuvneshwar Kumar",
+    "overs": "3",
+    "maidens": "1",
+    "runs": "11",
+    "wickets": "1",
+    "economy": "3.66",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Arshdeep Singh",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "9",
+    "wickets": "1",
+    "economy": "4.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammed Shami",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "14",
+    "wickets": "2",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hardik Pandya",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "2",
+    "economy": "5.33",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Ravichandran Ashwin",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "22",
+    "wickets": "3",
+    "economy": "5.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Axar Patel",
+    "overs": "3.2",
+    "maidens": "0",
+    "runs": "40",
+    "wickets": "1",
+    "economy": "12.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "2",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "0",
+    "economy": "8.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Wasim",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "0",
+    "economy": "8.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Nawaz",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Trent Boult",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "33",
+    "wickets": "2",
+    "economy": "8.25",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Tim Southee",
+    "overs": "3.1",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "0",
+    "economy": "7.57",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Lockie Ferguson",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "37",
+    "wickets": "0",
+    "economy": "9.25",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mitchell Santner",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "1",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ish Sodhi",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "6.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Stokes",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "18",
+    "wickets": "0",
+    "economy": "9.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Woakes",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "24",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sam Curran",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "42",
+    "wickets": "0",
+    "economy": "10.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adil Rashid",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Liam Livingstone",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "21",
+    "wickets": "0",
+    "economy": "7.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Jordan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "43",
+    "wickets": "3",
+    "economy": "10.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Bhuvneshwar Kumar",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "25",
+    "wickets": "0",
+    "economy": "12.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Arshdeep Singh",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "15",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Axar Patel",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammed Shami",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "39",
+    "wickets": "0",
+    "economy": "13.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ravichandran Ashwin",
+    "overs": "2",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "0",
+    "economy": "13.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Hardik Pandya",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "34",
+    "wickets": "0",
+    "economy": "11.33",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Ben Stokes",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "32",
+    "wickets": "1",
+    "economy": "8.00",
+    "wides": "2",
+    "noBalls": "1"
+  },
+  {
+    "bowlerName": "Chris Woakes",
+    "overs": "3",
+    "maidens": "0",
+    "runs": "26",
+    "wickets": "0",
+    "economy": "8.66",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Sam Curran",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "12",
+    "wickets": "3",
+    "economy": "3.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Adil Rashid",
+    "overs": "4",
+    "maidens": "1",
+    "runs": "22",
+    "wickets": "2",
+    "economy": "5.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Chris Jordan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "27",
+    "wickets": "2",
+    "economy": "6.75",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Liam Livingstone",
+    "overs": "1",
+    "maidens": "0",
+    "runs": "16",
+    "wickets": "0",
+    "economy": "16.00",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shaheen Shah Afridi",
+    "overs": "2.1",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "1",
+    "economy": "6.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Naseem Shah",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "30",
+    "wickets": "0",
+    "economy": "7.50",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Haris Rauf",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "23",
+    "wickets": "2",
+    "economy": "5.75",
+    "wides": "1",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Shadab Khan",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "20",
+    "wickets": "1",
+    "economy": "5.00",
+    "wides": "0",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Mohammad Wasim",
+    "overs": "4",
+    "maidens": "0",
+    "runs": "38",
+    "wickets": "1",
+    "economy": "9.50",
+    "wides": "2",
+    "noBalls": "0"
+  },
+  {
+    "bowlerName": "Iftikhar Ahmed",
+    "overs": "0.5",
+    "maidens": "0",
+    "runs": "13",
+    "wickets": "0",
+    "economy": "15.60",
+    "wides": "0",
+    "noBalls": "0"
+  }
+]
